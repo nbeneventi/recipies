@@ -1,0 +1,6 @@
+/* how to make images round */
+/* first start off with a square image or the result will be an elipse */
+
+.img-circle {
+    border-radius: 50%;
+}
